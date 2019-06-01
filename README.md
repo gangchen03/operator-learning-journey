@@ -25,7 +25,7 @@ Always ask the why question before learning anything. Here is my thoughts:
 - Stateful application is hard
 - Demand for Operation-As-code in Kubernetes
 
-What is Operator: 
+What is Operator:
 - Approach to automate applications in Kubernetes, specifically for distributed Stateful application.
 
 Blogs and videos:
@@ -34,4 +34,4 @@ Blogs and videos:
 - [(An Attempt at) Learning Kubernetes Operators for StatefulSet Recovery](https://medium.com/@joatmon08/an-attempt-at-learning-kubernetes-operators-dace89e573b1)
 - [(Video) Lightning Talk: Why You Care About Kubernetes Operators - Josh Wood, Red Hat](https://www.youtube.com/watch?v=6Csf0g9BTr4)
 - [What not to talk about when talking Operators (in Chinese, need translation)](https://www.infoq.cn/article/SJMUvMg_0H7BS5d99euR)
-- [Brandon Philips gist of Third Party Resource (TPR)](a97a143546c87b86b870a82a753db14c) - A little history of emergence of Operators
+- [Brandon Philips gist of Third Party Resource (TPR)](https://gist.github.com/philips/a97a143546c87b86b870a82a753db14c) - A little history of emergence of Operators
